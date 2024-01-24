@@ -1,0 +1,7 @@
+{
+  "name": "uprak-apmob",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
